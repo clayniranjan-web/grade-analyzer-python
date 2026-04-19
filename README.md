@@ -13,7 +13,7 @@ python main.py
 - Flags students who are below the passing mark
 - Prints a clean formatted report
 
-
+```
 ## Sample Output
 ------------------------------
 Name       | Avg    | Status
@@ -26,7 +26,7 @@ Dev        | 75.0   | 👍 Pass
 ------------------------------
 🏆 Topper: Rohit with 91.7 marks
 ❌ Failing: Priya, Simran
-
+```
 ## Skills Used
 - Python dictionaries and lists
 - Functions and docstrings
