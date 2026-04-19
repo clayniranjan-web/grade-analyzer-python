@@ -13,6 +13,7 @@ python main.py
 - Flags students who are below the passing mark
 - Prints a clean formatted report
 
+
 ## Sample Output
 ------------------------------
 Name       | Avg    | Status
