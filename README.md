@@ -33,8 +33,10 @@ Dev        | 75.0   | 👍 Pass
 - f-strings and string formatting
 - Loops and conditionals
 
+```
 ## Author
 Clay Niranjan
 💼 LinkedIn: https://www.linkedin.com/in/clay-niranjan-b4587b31b/
 📧 Email: clayniranjan@gmail.com
 🐙 GitHub: https://github.com/clayniranjan-web
+```
