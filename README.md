@@ -34,4 +34,7 @@ Dev        | 75.0   | 👍 Pass
 - Loops and conditionals
 
 ## Author
-Clay Niranjan — April 2026
+Clay Niranjan
+💼 LinkedIn: https://www.linkedin.com/in/clay-niranjan-b4587b31b/
+📧 Email: clayniranjan@gmail.com
+🐙 GitHub: https://github.com/clayniranjan-web
